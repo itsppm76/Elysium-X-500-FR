@@ -1,0 +1,117 @@
+dataset,source_label,elysium_ids,match_quality
+go_emotions,admiration,13,exact
+go_emotions,amusement,3,exact
+go_emotions,anger,46,exact
+go_emotions,annoyance,47,exact
+go_emotions,approval,76,exact
+go_emotions,caring,66,exact
+go_emotions,confusion,93,exact
+go_emotions,curiosity,91,exact
+go_emotions,desire,106,exact
+go_emotions,disappointment,21,exact
+go_emotions,disapproval,77,exact
+go_emotions,disgust,54,exact
+go_emotions,embarrassment,30,exact
+go_emotions,excitement,4,exact
+go_emotions,fear,31,exact
+go_emotions,gratitude,11,exact
+go_emotions,grief,17,exact
+go_emotions,joy,1,exact
+go_emotions,love,62,exact
+go_emotions,nervousness,33,exact
+go_emotions,optimism,10,exact
+go_emotions,pride,12,exact
+go_emotions,realization,97,exact
+go_emotions,relief,8,exact
+go_emotions,remorse,27,exact
+go_emotions,sadness,16,exact
+go_emotions,surprise,94,exact
+go_emotions,neutral,,neutral-dropped
+dair-ai/emotion,sadness,16,exact
+dair-ai/emotion,joy,1,exact
+dair-ai/emotion,love,62,exact
+dair-ai/emotion,anger,46,exact
+dair-ai/emotion,fear,31,exact
+dair-ai/emotion,surprise,94,exact
+tweet_eval/emotion,anger,46,exact
+tweet_eval/emotion,joy,1,exact
+tweet_eval/emotion,optimism,10,exact
+tweet_eval/emotion,sadness,16,exact
+ISEAR,joy,1,exact
+ISEAR,fear,31,exact
+ISEAR,anger,46,exact
+ISEAR,sadness,16,exact
+ISEAR,disgust,54,exact
+ISEAR,shame,29,exact
+ISEAR,guilt,28,exact
+BRIGHTER,anger,46,exact
+BRIGHTER,disgust,54,exact
+BRIGHTER,fear,31,exact
+BRIGHTER,joy,1,exact
+BRIGHTER,sadness,16,exact
+BRIGHTER,surprise,94,exact
+empathetic_dialogues,surprised,94,exact
+empathetic_dialogues,excited,4,exact
+empathetic_dialogues,angry,46,closest
+empathetic_dialogues,proud,12,closest
+empathetic_dialogues,sad,16,exact
+empathetic_dialogues,annoyed,47,exact
+empathetic_dialogues,grateful,11,exact
+empathetic_dialogues,lonely,19,exact
+empathetic_dialogues,afraid,31,closest
+empathetic_dialogues,terrified,31 37,closest
+empathetic_dialogues,guilty,28,exact
+empathetic_dialogues,impressed,13,closest
+empathetic_dialogues,disgusted,54,exact
+empathetic_dialogues,hopeful,9,exact
+empathetic_dialogues,confident,113,exact
+empathetic_dialogues,furious,46 53,closest
+empathetic_dialogues,anxious,32,exact
+empathetic_dialogues,anticipating,233,closest
+empathetic_dialogues,joyful,1,closest
+empathetic_dialogues,nostalgic,220,exact
+empathetic_dialogues,disappointed,21,exact
+empathetic_dialogues,jealous,57,exact
+empathetic_dialogues,content,2,exact
+empathetic_dialogues,devastated,16 23,closest
+empathetic_dialogues,embarrassed,30,exact
+empathetic_dialogues,caring,66,exact
+empathetic_dialogues,sentimental,220 222,closest
+empathetic_dialogues,trusting,72,exact
+empathetic_dialogues,ashamed,29,closest
+empathetic_dialogues,apprehensive,34,exact
+empathetic_dialogues,prepared,,no-match-dropped
+empathetic_dialogues,faithful,,no-match-dropped
+daily_dialog,anger,46,exact
+daily_dialog,disgust,54,exact
+daily_dialog,fear,31,exact
+daily_dialog,happiness,1,closest
+daily_dialog,sadness,16,exact
+daily_dialog,surprise,94,exact
+XED,anger,46,exact
+XED,anticipation,233,closest
+XED,disgust,54,exact
+XED,fear,31,exact
+XED,joy,1,exact
+XED,sadness,16,exact
+XED,surprise,94,exact
+XED,trust,72,exact
+SemEval-2018 E-c,anger,46,exact
+SemEval-2018 E-c,anticipation,233,closest
+SemEval-2018 E-c,disgust,54,exact
+SemEval-2018 E-c,fear,31,exact
+SemEval-2018 E-c,joy,1,exact
+SemEval-2018 E-c,love,62,exact
+SemEval-2018 E-c,optimism,10,exact
+SemEval-2018 E-c,pessimism,25,closest
+SemEval-2018 E-c,sadness,16,exact
+SemEval-2018 E-c,surprise,94,exact
+SemEval-2018 E-c,trust,72,exact
+Chinese_Multi-Emotion_Dialogue,開心語調,1,exact
+Chinese_Multi-Emotion_Dialogue,關切語調,66,closest
+Chinese_Multi-Emotion_Dialogue,憤怒語調,46,exact
+Chinese_Multi-Emotion_Dialogue,驚奇語調,94,exact
+Chinese_Multi-Emotion_Dialogue,悲傷語調,16,exact
+Chinese_Multi-Emotion_Dialogue,厭惡語調,54,exact
+Chinese_Multi-Emotion_Dialogue,疑問語調,93,closest
+Chinese_Multi-Emotion_Dialogue,平淡語氣,,neutral-dropped
